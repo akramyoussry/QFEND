@@ -1,4 +1,4 @@
-This is the implementation of the proposed method in the paper "Noise Detection with Spectator Qubits and Quantum Feature Engineering" in https://arxiv.org/abs/2103.13018 The implementation is based on Tensorflow 2.3. The "datsets_and_models" folder constains the datasets created and used for generating the results in the paper as well as the trained models for reference.
+This is the implementation of the proposed method in the paper "Noise Detection with Spectator Qubits and Quantum Feature Engineering" (https://iopscience.iop.org/article/10.1088/1367-2630/ace2e4) The implementation is based on Tensorflow 2.3. The "datsets_and_models" folder constains the datasets created and used for generating the results in the paper as well as the trained models for reference.
 
 The "src" folder contains the following source files:
 
